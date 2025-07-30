@@ -19,7 +19,7 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1.6;
     color: var(--text-dark);
     background-color: #f4f4f4;
@@ -29,6 +29,7 @@ body {
     align-items: center;
     padding: 20px;
 }
+
 
 .grand-card {
     width: 1000px;
