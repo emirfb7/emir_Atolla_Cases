@@ -106,7 +106,7 @@ body {
 
 .divider {
     width: 328px;
-    height: 1px;
+    height: 0.80px;
     background-color: var(--divider-color);
     flex-shrink: 0;
 }
@@ -136,7 +136,7 @@ body {
     display: flex;
     justify-content: center;
     width: 100%;
-    margin-top: 8px;
+
 }
 
 .login-button {
